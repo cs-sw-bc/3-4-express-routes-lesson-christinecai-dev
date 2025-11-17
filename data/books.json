@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "The Silent Ocean",
+    "genres": ["Sci-Fi", "Adventure"],
+    "year": 2018,
+    "pageCount": 420,
+    "author": {
+      "id": 101,
+      "name": "Ava Thompson",
+      "nationality": "Canadian",
+      "birthYear": 1979,
+      "awards": ["Nebula Award", "Aurora Award"]
+    },
+    "reviews": [
+      { "id": 1, "reviewer": "John", "rating": 5, "comment": "Mind-blowing worldbuilding!" },
+      { "id": 2, "reviewer": "Mia", "rating": 4, "comment": "Great pacing but slow middle." },
+      { "id": 3, "reviewer": "Sam", "rating": 3, "comment": "Good but predictable ending." }
+    ],
+    "chapters": [
+      { "id": 1, "title": "The Drift", "summary": "Captain Lee discovers an abandoned ship." },
+      { "id": 2, "title": "The Signal", "summary": "A mysterious signal changes course." },
+      { "id": 3, "title": "The Depths", "summary": "Crew encounters an ancient underwater city." }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Whispers of the Mountain",
+    "genres": ["Drama", "Mystery"],
+    "year": 2021,
+    "pageCount": 310,
+    "author": {
+      "id": 102,
+      "name": "Lucas Ramirez",
+      "nationality": "Mexican-American",
+      "birthYear": 1985,
+      "awards": []
+    },
+    "reviews": [
+      { "id": 1, "reviewer": "Tara", "rating": 4, "comment": "Emotional and gripping." },
+      { "id": 2, "reviewer": "Kevin", "rating": 5, "comment": "Best book of the year!" }
+    ],
+    "chapters": [
+      { "id": 1, "title": "Cold Winds", "summary": "A missing hiker sparks a mystery." },
+      { "id": 2, "title": "Echoes", "summary": "Old stories reveal hidden truths." }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "The Last Ember",
+    "genres": ["Fantasy"],
+    "year": 2015,
+    "pageCount": 560,
+    "author": {
+      "id": 103,
+      "name": "Rina Patel",
+      "nationality": "Indian",
+      "birthYear": 1990,
+      "awards": ["Booker Prize"]
+    },
+    "reviews": [
+      { "id": 1, "reviewer": "Sarah", "rating": 5, "comment": "A masterpiece!" },
+      { "id": 2, "reviewer": "Mike", "rating": 2, "comment": "Too long for my taste." }
+    ],
+    "chapters": [
+      { "id": 1, "title": "Ashes", "summary": "The prophecy is revealed." },
+      { "id": 2, "title": "Flamebound", "summary": "The hero learns their true power." },
+      { "id": 3, "title": "Rebirth", "summary": "A climactic battle for the kingdom." }
+    ]
+  }
+]
